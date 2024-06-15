@@ -6,7 +6,7 @@
 <p align="left">
 <a href="https://twitter.com/juanyahirisidr1" target="blank"><img align="center " src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="juanyahirisidr1" height="30" width= "40" /></a>
 <a href="https://fb.com/juanchis cervantes" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="juanchis cervantes" height="30" width="40" /></a>
-<a href="https://instagram.com/yahircer1406" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator /master/src/images/icons/Social/instagram.svg" alt="yahircer1406" height="30" width="40" /></a>
+<a href="https://www.instagram.com/yahir.is.cer/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator /master/src/images/icons/Social/instagram.svg" alt="yahircer1406" height="30" width="40" /></a>
 </a>
 </p>
 
